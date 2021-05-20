@@ -1,0 +1,44 @@
+.entete{
+    width: 100%;
+    display:grid;
+    grid-template-columns: 1fr 0.2fr;
+    line-height: 1em;
+    height:1em;
+    margin:16px 0;
+}
+.image{
+    width: 100%;
+    display:grid;
+    grid-template-columns: 1fr 1fr;   
+}
+.ajouterimage{
+    width: 1em;
+}
+.text{
+    margin:0;
+}
+H1{
+    color:#0174DF;
+    margin:0;
+}
+body{
+background-color:#CEECF5;
+}
+.tablo{
+    width: 100%; 
+}
+
+.hauttab{
+    background-color:#E0F2F7;
+    color:#013ADF;
+}
+.bastab{
+    background-color:#FFFFFF; 
+}
+.poubelle{
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  
+}
+

@@ -1,0 +1,47 @@
+
+
+/* PAGE "LISTER SES FICHES DE FRAIS" */
+
+.bodyListerFicheFrais {
+    background-color: lightskyblue;
+}
+
+.listerFicheFrais-nom {
+    text-align:center;
+    color:dodgerblue;
+    font-size: 40px;
+}
+
+.imgAjouter {
+    float:right;
+    color:black;
+    font-size:20px;
+    height:30px;
+    width:30px;
+}
+
+.table1 {
+    margin:auto;
+    border:2px;
+    border-style:solid;
+    width:75%;
+    padding:10px;
+    text-align:center;
+    background-color:lightblue;
+}
+
+th {
+    border: 1px solid black;
+    background-color:white;
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+}
+
+/* PAGE "RENSEIGNER FICHE FRAIS" */
+
+#bodyRenseignerFicheFrais {
+    background-color:dodgerblue;
+}
